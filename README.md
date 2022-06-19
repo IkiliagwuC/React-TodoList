@@ -1,3 +1,6 @@
+#custom react todo app built using built vanilla JS template app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
